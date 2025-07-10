@@ -1,7 +1,7 @@
-# 🌴 King Sukh Guest House – Website Redesign  
+# King Sukh Guest House – Website Redesign  
 **Internship Project | Innobyte Services Pvt. Ltd.**
 
-## 👋 Introduction
+## Introduction
 
 This project was part of my internship at **Innobyte Services Pvt. Ltd.**, where I redesigned the website for **King Sukh Guest House** — a peaceful retreat nestled in nature.  
 The goal was to transform the existing static site into a more modern, responsive, and user-friendly platform.
